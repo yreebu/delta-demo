@@ -4,4 +4,4 @@ This is a Demo for Git & Github Class
 Shradha Khapra
 
 # Student
-Delta Student
+Delta Student for web development.
